@@ -1,0 +1,36 @@
+{"portfolio":[
+    { 	"title":"Spark", 
+    	"caption":"Spark is a fictional campaign for a app for couples who want to experience something new.",
+    	"image":"img/spark.jpg"
+    },
+
+    { 	"title":"Super8", 
+    	"caption":"Super8 is a rebranding of the motel chain with a brand new concept.",
+    	"image":"img/super8.jpg"
+    },
+
+    { 	"title":"Lux", 
+    	"caption":"Lux is a campaign for the MTA to redesign the experience of the subway in NYC.",
+    	"image":"img/lux.jpg"
+    },
+
+    { 	"title":"QB", 
+    	"caption":"QB is a interactive experience, designed to imitate the Cube found on Astor Place, NYC.",
+    	"image":"img/boy.jpg"
+    },
+
+    { 	"title":"Pretender", 
+    	"caption":"Pretender is a film about fitting into a new place.",
+    	"image":"img/pretender.jpg"
+    },
+
+    { 	"title":"Audio Visualization", 
+    	"caption":"This audio visualization takes Taco Hemingway's Anja and turns it into a visual experience.",
+    	"image":"img/bars1.png"
+    },
+
+    { 	"title":"Particles", 
+    	"caption":"Particles is a p5 sketch that is meant to just be enjoyed.",
+    	"image":"img/particles.jpg"
+    }
+]}
